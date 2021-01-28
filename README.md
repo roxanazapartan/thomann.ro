@@ -1,4 +1,4 @@
-# thoman.ro
+# thomann.ro
 Final project_Software Testing
 
 Thomann is the largest online and mail order retailer for musical instruments, light and sound equipment worldwide, 
