@@ -1,0 +1,73 @@
+{
+	"id": "f3088fde-9c7f-4e7c-98ed-f1d7c72d1447",
+	"name": "Thoman.ro",
+	"timestamp": "2021-03-30T10:43:36.320Z",
+	"collection_id": "71a54ae7-0b23-48ae-a4a8-79385eec7716",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 5,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "beefae6b-b4c9-4e9b-9c54-f787ed34b29d",
+			"name": "Homepage",
+			"url": "https://www.thomann.de/ro/index.html",
+			"time": 673,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 800ms": true,
+				"Body is correct": true,
+				"Body matches string": true,
+				"Content-Type is present": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 800ms": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body matches string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				673
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 800ms": true,
+					"Body is correct": true,
+					"Body matches string": true,
+					"Content-Type is present": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 673,
+	"collection": {
+		"requests": [
+			{
+				"id": "beefae6b-b4c9-4e9b-9c54-f787ed34b29d",
+				"method": "GET"
+			}
+		]
+	}
+}
